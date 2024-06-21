@@ -572,6 +572,23 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> </td>
     </tr>
     <tr>
+    	<td> UVLTrack</td>
+    	<td>AAAI'2024</td>
+	<td></td>
+    	<td> </td>
+      	<td> </td>
+    	<td> </td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> 52.5</td>
+      	<td> 60.0</td>
+   	<td> 55.8</td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+    </tr>
+    <tr>
     	<td> All in One</td>
     	<td>ICCV'2023</td>
 	<td>60</td>
@@ -581,13 +598,65 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> </td>
       	<td> </td>
    	<td> </td>
-	<td> </td>
-      	<td> </td>
-   	<td> </td>
+	<td> 53.1</td>
+      	<td> 61.5</td>
+   	<td> 57.1</td>
 	<td> 71.5</td>
       	<td> 60.5</td>
    	<td> 56.8</td>
     </tr>
+    <tr>
+    	<td> JointNLT</td>
+    	<td>CVPR'2023</td>
+	<td></td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+	<td> 25.5</td>
+      	<td> 34.9</td>
+   	<td> 32.7</td>
+	<td> </td>
+      	<td> </td>
+   	<td> </td>
+    </tr>
+    <tr>
+    	<td> CiteTracker</td>
+    	<td>ICCV'2023</td>
+	<td> </td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+	<td> 49.3</td>
+      	<td> 58.4</td>
+   	<td> 54.6</td>
+	<td> </td>
+      	<td> </td>
+   	<td> </td>
+    </tr>
+    <tr>
+    	<td> VLT_TT</td>
+    	<td>NIPS'2022</td>
+	<td> </td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+	<td> 41.7</td>
+      	<td> 52.1</td>
+   	<td> 48.3</td>
+	<td> </td>
+      	<td> </td>
+   	<td> </td>
+    </tr>
+
 </table>
 
 -----
