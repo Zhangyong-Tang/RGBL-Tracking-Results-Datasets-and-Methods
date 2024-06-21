@@ -206,6 +206,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> 64.7</td>
     </tr>
    <tr>
+    	<td>TransNLT</td>
+    	<td>TCSVT'2023</td>
+	<td></td>
+    	<td> 87.0</td>
+      	<td> </td>
+    	<td> 67.0</td>
+    	<td> 57.0</td>
+      	<td> 75.0</td>
+   	<td> 57.0</td>
+    </tr>
+   <tr>
     	<td>DecoupleNLT</td>
     	<td>ICCV'2023</td>
 	<td></td>
@@ -520,6 +531,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> 35.0</td>
       	<td> 43.0</td>
     	<td> 35.0</td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+    </tr>
+  <tr>
+    	<td>TransNLT</td>
+    	<td>TCSVT'2023</td>
+	<td></td>
+    	<td> 63.0</td>
+      	<td> </td>
+    	<td> 60.0</td>
     	<td> </td>
       	<td> </td>
    	<td> </td>
