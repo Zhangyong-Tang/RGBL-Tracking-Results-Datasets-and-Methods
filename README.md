@@ -57,6 +57,28 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> UnTrack</td>
+    	<td>CVPR'2024</td>
+	<td></td>
+    	<td> 91.5</td>
+      	<td> </td>
+    	<td> 69.7</td>
+    	<td> 59.1</td>
+      	<td> </td>
+   	<td> 58.0</td>
+    </tr>
+    <tr>
+    	<td> SeqTrackv2</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> 93.4</td>
+      	<td> </td>
+    	<td> 71.8</td>
+    	<td> 66.0</td>
+      	<td> </td>
+   	<td> 62.7</td>
+    </tr>
+    <tr>
     	<td> QueryNLT</td>
     	<td>CVPR'2024</td>
 	<td></td>
