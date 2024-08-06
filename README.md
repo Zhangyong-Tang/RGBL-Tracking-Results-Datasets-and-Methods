@@ -134,6 +134,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> 58.1</td>
     </tr>
     <tr>
+    	<td>VLT_OST</td>
+    	<td>TPAMI'2024</td>
+	<td></td>
+    	<td> 95.0</td>
+      	<td> </td>
+    	<td> 77.7</td>
+    	<td> 54.5</td>
+      	<td> </td>
+   	<td> 55.7</td>
+    </tr>
+    <tr>
     	<td> MMTrack</td>
     	<td>TCSVT'2024</td>
 	<td></td>
@@ -187,17 +198,6 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> 59.6</td>
       	<td> </td>
    	<td> 57.7</td>
-    </tr>
-    <tr>
-    	<td>VLT_OST</td>
-    	<td>Arxiv'2023</td>
-	<td></td>
-    	<td> 95.0</td>
-      	<td> </td>
-    	<td> 77.7</td>
-    	<td> 54.5</td>
-      	<td> </td>
-   	<td> 55.7</td>
     </tr>
     <tr>
     	<td>JointNLT</td>
@@ -387,6 +387,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> 48.8</td>
     </tr>
     <tr>
+    	<td>VLT_OST</td>
+    	<td>TPAMI'2024</td>
+	<td></td>
+    	<td> 77.0</td>
+      	<td> </td>
+    	<td> 70.5</td>
+    	<td> 54.8</td>
+      	<td> </td>
+   	<td> 48.6</td>
+    </tr>
+    <tr>
     	<td> MMTrack</td>
     	<td>TCSVT'2024</td>
 	<td></td>
@@ -440,17 +451,6 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
       	<td> </td>
    	<td> </td>
-    </tr>
-    <tr>
-    	<td>VLT_OST</td>
-    	<td>Arxiv'2023</td>
-	<td></td>
-    	<td> 77.0</td>
-      	<td> </td>
-    	<td> 70.5</td>
-    	<td> 54.8</td>
-      	<td> </td>
-   	<td> 48.6</td>
     </tr>
     <tr>
     	<td>JointNLT</td>
