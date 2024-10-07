@@ -282,12 +282,12 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td>VLT_TT</td>
     	<td>NIPS'2022</td>
 	<td></td>
-    	<td> 93.9</td>
+    	<td> 93.1</td>
       	<td> </td>
-    	<td> 77.2</td>
-    	<td> 54.2</td>
+    	<td> 76.4</td>
+    	<td> 53.3</td>
       	<td> </td>
-   	<td> 55.0</td>
+   	<td> 53.1</td>
     </tr>
     <tr>
     	<td>CapsuleNLT</td>
@@ -524,12 +524,12 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td>VLT_TT</td>
     	<td>NIPS'2022</td>
 	<td></td>
-    	<td> 75.4</td>
+    	<td> 72.1</td>
       	<td> </td>
-    	<td> 68.8</td>
-    	<td> 57.4</td>
+    	<td> 67.3</td>
+    	<td> 55.9</td>
       	<td> </td>
-   	<td> 49.7</td>
+   	<td> 48.4</td>
     </tr>
     <tr>
     	<td>CapsuleNLT</td>
