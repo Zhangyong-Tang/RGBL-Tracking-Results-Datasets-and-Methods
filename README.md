@@ -480,12 +480,12 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td>OVLM</td>
     	<td>TMM'2023</td>
 	<td></td>
-    	<td> </td>
-      	<td> </td>
-    	<td> </td>
     	<td> 74.2</td>
       	<td> 77.6</td>
    	<td> 67.7</td>
+    	<td> </td>
+      	<td> </td>
+    	<td> </td>
     </tr>
    <tr>
     	<td>DecoupleNLT</td>
