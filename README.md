@@ -59,6 +59,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> ATTracker</td>
+    	<td>ACMMM'2024</td>
+	<td></td>
+    	<td>88.6</td>
+      	<td> </td>
+    	<td>67.6</td>
+    	<td>56.1</td>
+      	<td>69.9</td>
+   	<td>52.2</td>
+    </tr>
+    <tr>
     	<td> UnTrack</td>
     	<td>CVPR'2024</td>
 	<td></td>
@@ -332,6 +343,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<th colspan="1"></th> 
         <th colspan="3">LaSOT</th> 
         <th colspan="3">LaSOT_EXT</th> 
+    </tr>
+    <tr>
+    	<td> ATTracker</td>
+    	<td>ACMMM'2024</td>
+	<td></td>
+    	<td>60.5</td>
+      	<td> </td>
+    	<td>60.4</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
     </tr>
     <tr>
     	<td> QueryNLT</td>
