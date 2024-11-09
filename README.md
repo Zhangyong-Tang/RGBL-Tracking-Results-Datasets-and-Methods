@@ -60,6 +60,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> ChatTracker</td>
+    	<td>NIPS'2024</td>
+	<td></td>
+    	<td></td>
+      	<td> </td>
+    	<td></td>
+    	<td>70.2</td>
+      	<td>76.5</td>
+   	<td>65.4</td>
+    </tr>
+    <tr>
     	<td> ATTracker</td>
     	<td>ACMMM'2024</td>
 	<td></td>
@@ -344,6 +355,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<th colspan="1"></th> 
         <th colspan="3">LaSOT</th> 
         <th colspan="3">LaSOT_EXT</th> 
+    </tr>
+    <tr>
+    	<td> ChatTracker</td>
+    	<td>NIPS'2024</td>
+	<td></td>
+    	<td>81.2</td>
+      	<td>83.8</td>
+    	<td>74.1</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
     </tr>
     <tr>
     	<td> ATTracker</td>
