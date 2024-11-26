@@ -62,6 +62,18 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> MambaVLT</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td>94.4</td>
+      	<td>88.1</td>
+    	<td>72.2</td>
+    	<td>69.9</td>
+      	<td>90.9</td>
+   	<td>66.5</td>
+    </tr>
+
+    <tr>
     	<td> ChatTracker</td>
     	<td>NIPS'2024</td>
 	<td></td>
@@ -369,6 +381,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td></td>
    	<td></td>
     </tr>
+	<tr>
+    	<td> MambaVLT</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td>71.0</td>
+      	<td>77.3</td>
+    	<td>66.6</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
+    </tr>
     <tr>
     	<td> ATTracker</td>
     	<td>ACMMM'2024</td>
@@ -652,6 +675,23 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> PR</td>
       	<td> NPR</td>
    	<td> SR</td>
+    </tr>
+    <tr>
+    	<td> MambaVLT</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td> 58.9</td>
+      	<td> 78.0</td>
+    	<td> 69.9</td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
     </tr>
     <tr>
     	<td> DTLLM-VLT</td>
