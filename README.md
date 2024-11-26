@@ -656,7 +656,6 @@ This repository is started on 27/12/2023, and will keep on updating.**
         <th colspan="3">VastTrack</th> 
             <th colspan="3">WebUOT-1M</th> 
 	            <th colspan="3">WevUAV-3M</th> 
-	            <th colspan="3">WevUAV-3M</th> 
     </tr>
     <tr>
     	<td> Methods</td>
