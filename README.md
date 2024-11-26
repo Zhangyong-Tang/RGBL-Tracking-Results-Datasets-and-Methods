@@ -62,6 +62,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> PGG</td>
+    	<td>TIST'2024</td>
+	<td></td>
+    	<td>90.8</td>
+      	<td></td>
+    	<td>69.3</td>
+    	<td>57.3</td>
+      	<td></td>
+   	<td>56.3</td>
+    </tr>
+    <tr>
     	<td> MambaVLT</td>
     	<td>Arxiv'2024</td>
 	<td></td>
@@ -368,6 +379,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<th colspan="1"></th> 
         <th colspan="3">LaSOT</th> 
         <th colspan="3">LaSOT_EXT</th> 
+    </tr>
+    <tr>
+    	<td> PGG</td>
+    	<td>TIST'2024</td>
+	<td></td>
+    	<td>75.3</td>
+      	<td></td>
+    	<td>70.1</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
     </tr>
     <tr>
     	<td> ChatTracker</td>
