@@ -72,7 +72,6 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td>90.9</td>
    	<td>66.5</td>
     </tr>
-
     <tr>
     	<td> ChatTracker</td>
     	<td>NIPS'2024</td>
