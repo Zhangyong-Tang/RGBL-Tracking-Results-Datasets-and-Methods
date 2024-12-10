@@ -62,6 +62,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> MugTracker</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td>92.4</td>
+      	<td></td>
+    	<td>69.8</td>
+    	<td>58.1</td>
+      	<td></td>
+   	<td>56.5</td>
+    </tr>
+    <tr>
     	<td> PGG</td>
     	<td>TIST'2024</td>
 	<td></td>
@@ -379,6 +390,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
 	<th colspan="1"></th> 
         <th colspan="3">LaSOT</th> 
         <th colspan="3">LaSOT_EXT</th> 
+    </tr>
+    <tr>
+    	<td> MugTracker</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td>75.9</td>
+      	<td></td>
+    	<td>70.4</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
     </tr>
     <tr>
     	<td> PGG</td>
