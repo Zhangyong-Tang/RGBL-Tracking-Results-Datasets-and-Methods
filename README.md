@@ -149,7 +149,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> 75.6</td>
    	<td> 57.8</td>
     </tr>
-    <tr>
+<!--     <tr>
     	<td> DTLLM-VLT</td>
     	<td>CVPRW'2024</td>
 	<td></td>
@@ -159,7 +159,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
       	<td> </td>
    	<td> </td>
-    </tr>
+    </tr> -->
     <tr>
     	<td> MFAVLT</td>
     	<td>Remote Sensing'2024</td>
@@ -457,7 +457,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> </td>
    	<td> </td>
     </tr>
-    <tr>
+<!--     <tr>
     	<td> DTLLM-VLT</td>
     	<td>CVPRW'2024</td>
 	<td></td>
@@ -467,7 +467,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td> </td>
       	<td> </td>
    	<td> </td>
-    </tr>
+    </tr> -->
     <tr>
     	<td> MFAVLT</td>
     	<td>Remote Sensing'2024</td>
@@ -735,7 +735,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> </td>
    	<td> </td>
     </tr>
-    <tr>
+<!--     <tr>
     	<td> DTLLM-VLT</td>
     	<td>CVPRW'2024</td>
 	<td></td>
@@ -751,7 +751,7 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> </td>
       	<td> </td>
    	<td> </td>
-    </tr>
+    </tr> -->
     <tr>
     	<td> UVLTrack</td>
     	<td>AAAI'2024</td>
