@@ -62,6 +62,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> SUTrack</td>
+    	<td>AAAI'2025</td>
+	<td></td>
+    	<td>93.1</td>
+      	<td></td>
+    	<td>71.2</td>
+    	<td>72.1</td>
+      	<td></td>
+   	<td>67.9</td>
+    </tr>
+    <tr>
     	<td> MugTracker</td>
     	<td>TCSVT'2024</td>
 	<td></td>
