@@ -62,6 +62,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> MAVLT</td>
+    	<td>TSCVT'2025</td>
+	<td>42.6/3090</td>
+    	<td>93.5</td>
+      	<td></td>
+    	<td>71.6</td>
+    	<td>58.1</td>
+      	<td></td>
+   	<td>57.0</td>
+    </tr>
+    <tr>
     	<td> A-CLIP</td>
     	<td>EAAI'2025</td>
 	<td>31/2080Super</td>
@@ -425,6 +436,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
         <th colspan="3">LaSOT_EXT</th> 
     </tr>
     <tr>
+	    	<td> MAVLT</td>
+    	<td>TSCVT'2025</td>
+	<td>42.6/3090</td>
+    	<td>81.3</td>
+      	<td>86.6</td>
+    	<td>73.4</td>
+    	<td>65.8</td>
+      	<td>69.3</td>
+   	<td>57.5</td>
+    </tr>
+    <tr>
     	<td> A-CLIP</td>
     	<td>EAAI'2025</td>
 	<td>31/2080Super</td>
@@ -773,6 +795,23 @@ This repository is started on 27/12/2023, and will keep on updating.**
       	<td> NPR</td>
    	<td> SR</td>
     </tr>
+    <tr>
+	    	<td> MAVLT</td>
+    	<td>TSCVT'2025</td>
+	<td>42.6/3090</td>
+    	<td> </td>
+      	<td> </td>
+    	<td> </td>
+    	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> </td>
+      	<td> </td>
+   	<td> </td>
+      	<td> 74.6</td>
+      	<td> </td>
+   	<td> 59.0</td>
+    </tr> 
     <tr>
     	<td> MambaVLT</td>
     	<td>Arxiv'2024</td>
