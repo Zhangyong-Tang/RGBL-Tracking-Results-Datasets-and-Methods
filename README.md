@@ -62,7 +62,18 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
-    	<td> PtoVLT</td>
+    	<td> A-CLIP</td>
+    	<td>EAAI'2025</td>
+	<td>31/2080Super</td>
+    	<td>89.2</td>
+      	<td></td>
+    	<td>69.0</td>
+    	<td>53.8</td>
+      	<td></td>
+   	<td>49.5</td>
+    </tr>
+    <tr>
+    	<td> ProVLT</td>
     	<td>TCSVT'2025</td>
 	<td>64/3090</td>
     	<td>94.5</td>
@@ -414,6 +425,28 @@ This repository is started on 27/12/2023, and will keep on updating.**
         <th colspan="3">LaSOT_EXT</th> 
     </tr>
     <tr>
+    	<td> A-CLIP</td>
+    	<td>EAAI'2025</td>
+	<td>31/2080Super</td>
+    	<td>71.3</td>
+      	<td></td>
+    	<td>66.4</td>
+    	<td></td>
+      	<td></td>
+   	<td></td>
+    </tr>
+    <tr>
+    	<td> ProVLT</td>
+    	<td>TCSVT'2025</td>
+	<td>64/3090</td>
+    	<td>77.3</td>
+      	<td></td>
+    	<td>70.7</td>
+    	<td>58.8</td>
+      	<td></td>
+   	<td>51.4</td>
+    </tr>
+    <tr>
     	<td> MugTracker</td>
     	<td>TCSVT'2024</td>
 	<td></td>
@@ -423,17 +456,6 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td></td>
       	<td></td>
    	<td></td>
-    </tr>
-    <tr>
-    	<td> ProVLT</td>
-    	<td>TCsVT'2025</td>
-	<td>64/3090</td>
-    	<td>77.3</td>
-      	<td></td>
-    	<td>70.7</td>
-    	<td>58.8</td>
-      	<td></td>
-   	<td>51.4</td>
     </tr>
     <tr>
     	<td> PGG</td>
