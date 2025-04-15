@@ -62,6 +62,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
    	<td> SR</td>
     </tr>
     <tr>
+    	<td> PtoVLT</td>
+    	<td>TCSVT'2025</td>
+	<td>64/3090</td>
+    	<td>94.5</td>
+      	<td></td>
+    	<td>72.4</td>
+    	<td>61.8</td>
+      	<td></td>
+   	<td>59.8</td>
+    </tr>
+    <tr>
     	<td> SUTrack</td>
     	<td>AAAI'2025</td>
 	<td></td>
@@ -412,6 +423,17 @@ This repository is started on 27/12/2023, and will keep on updating.**
     	<td></td>
       	<td></td>
    	<td></td>
+    </tr>
+    <tr>
+    	<td> ProVLT</td>
+    	<td>TCsVT'2025</td>
+	<td>64/3090</td>
+    	<td>77.3</td>
+      	<td></td>
+    	<td>70.7</td>
+    	<td>58.8</td>
+      	<td></td>
+   	<td>51.4</td>
     </tr>
     <tr>
     	<td> PGG</td>
